@@ -1,0 +1,31 @@
+{
+    "name": "thyseus/yii2-banner",
+    "description": "Banner advertisement manager for Yii2",
+    "keywords": ["yii2", "yii2-banner", "banner", "advertisement"],
+    "type": "yii2-extension",
+    "license": "GPLv3",
+    "support": {
+        "issues": "https://github.com/thyseus/yii2-banner/issues?state=open",
+        "forum": "https://gitter.im/thyseus/yii2-banner",
+        "source": "https://github.com/thyseus/yii2-banner"
+    },
+    "authors": [
+        {
+            "name": "Herbert Maschke",
+            "email": "thyseus@gmail.com",
+            "homepage": "https://github.com/thyseus/yii2-banner"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "^2.0.0",
+        "yiisoft/yii2-bootstrap": "^2.0.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "thyseus\\banner\\": ""
+        }
+    }
+}
