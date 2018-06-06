@@ -1,3 +1,11 @@
+# ATTENTION:
+
+github has been bought by Microsoft. This repository is orphaned and has been moved to:
+
+https://gitlab.com/thyseus/yii2-banner
+
+Thanks a lot for your understanding and blame Microsoft.
+
 # Yii2-banner
 
 Place advertisements banners on your Page.
